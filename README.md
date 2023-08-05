@@ -40,10 +40,6 @@ When a user attempts to navigate to a page that does not exist.
 
 This component allows users to search for specific games
 
-## SearchResults Component
-
-This component displays the search results from searchbox component
-
 ## Getting Started
 
 To get started with this project, first clone this repository and then run `npm install` to install the necessary dependencies. After that, run `npm start` to start the application.
